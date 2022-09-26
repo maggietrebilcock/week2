@@ -1,0 +1,18 @@
+[
+    {
+        "firstname":"Google",
+        "link":"https://www.google.com"
+    },
+    {
+        "firstname":"Apple",
+        "link":"https://www.apple.com"
+    },
+    {
+        "firstname":"Microsoft",
+        "link":"https://www.microsoft.com"
+    },
+    {
+        "firstname":"Facebook",
+        "link":"https://www.facebook.com"
+    }
+]
